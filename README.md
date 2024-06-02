@@ -26,7 +26,7 @@ Please note that this script assumes you have a specific dataset in a specific f
     <li><b>Data Augmentation with RandomOverSampler</b>: To address the issue of class imbalance in the dataset, the script utilizes the RandomOverSampler technique.</li>
     <li><b>Principal Component Analysis (PCA)</b>: PCA is applied to reduce the dimensionality of the dataset while retaining most of the variance.</li>
     <li><b>Classification using CatBoost</b>: Gradient boosting method that handles categorical features efficiently and is robust to overfitting.</li>
-
+</ul>
 
 ## Dataset 
 
